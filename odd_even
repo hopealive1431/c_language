@@ -14,7 +14,7 @@ int isEven(int num)
     return !(num & 1);
 }
 
-
+//This is a single line commment 
 int main()
 {
     int num;
